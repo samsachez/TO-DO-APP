@@ -1,0 +1,51 @@
+
+    body {
+       
+        margin: 0; /* Reset default body margin */
+        padding: 0; /* Reset default body padding */
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    
+.p{
+    text-align: left;
+    text-decoration: none;
+    font-size: 100PX;
+    border-radius: 5PX ;
+    border: solid salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cotton {
+    text-align: center;
+}
+
+.vel {
+    text-align: center;
+    margin-top: 20px;
+}
+.cottan{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.ere {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ere:hover {
+    background-color: #45a049;
+}
+
+
+
